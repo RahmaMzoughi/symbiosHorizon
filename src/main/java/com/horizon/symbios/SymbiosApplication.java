@@ -8,7 +8,7 @@ public class SymbiosApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SymbiosApplication.class, args);
-		System.out.println("hellooooooooooo");
+
 	}
 
 }
